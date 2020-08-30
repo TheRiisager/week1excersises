@@ -1,8 +1,8 @@
-Week 1 excersises
+# Week 1 excersises <br />
 
-/week1day2-1:
-  day 2 exercise 1
-  100% completed
+/week1day2-1:<br />
+  day 2 exercise 1<br />
+  100% completed<br />
 
 /week1day2-2
   day 2 exercise 2
